@@ -18,4 +18,8 @@ const Profile = () => {
   )
 }
 
+<<<<<<< HEAD
 export default Profile
+=======
+export default Profile
+>>>>>>> 3519d6b0043b956ae2abd512bcbcd4943fe57145

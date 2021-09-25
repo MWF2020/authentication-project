@@ -14,4 +14,8 @@ ReactDOM.render(
     <App />
   </Auth0Provider>,
   document.getElementById('root')
+<<<<<<< HEAD
 );
+=======
+);
+>>>>>>> 3519d6b0043b956ae2abd512bcbcd4943fe57145

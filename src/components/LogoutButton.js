@@ -13,4 +13,8 @@ const LogoutButton = () => {
   )
 }
 
+<<<<<<< HEAD
 export default LogoutButton
+=======
+export default LogoutButton
+>>>>>>> 3519d6b0043b956ae2abd512bcbcd4943fe57145
